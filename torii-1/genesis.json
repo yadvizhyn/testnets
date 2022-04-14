@@ -33,7 +33,7 @@
       "accounts": [
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "archway1ntu5fmt2c6djgyxszefftpd89n7dma3p6nrtgq",
+          "address": "archway1glpmfaagdsu54n8sjjcfj86x035g6xdcjv6vc2",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
